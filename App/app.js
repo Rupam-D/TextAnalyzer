@@ -1,3 +1,10 @@
+const details =
+{
+  author: "Rupam Das",
+  date: "23 April,2023"
+}
+
+// Starts here
 const textarea = document.getElementById("textarea");
 const UpperCase = document.getElementById("UpperCase");
 const LowerCase = document.getElementById("LowerCase");
